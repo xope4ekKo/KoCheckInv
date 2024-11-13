@@ -1,0 +1,11 @@
+name: KoCheckInv
+version: '${project.version}'
+main: com.xope4ek.kocheckinv.KoCheckInv
+api-version: '1.21'
+commands:
+  kocheckinv:
+    description: Open Inv
+    usage: /kocheckinv <NickName>
+  kocheckender:
+    description: Open Ender Chest
+    usage: /kocheckender <NickName>
